@@ -1,0 +1,15 @@
+{
+  "remote_logging": false,
+  "log_location": "security_scan.log",
+  "scan_interval": 300,
+  "virustotal_api_key": "f2a5e3510be4085fc1bbe212fbb9a59488f3a7c88ab5937bafb2c827e71b9a1a",
+  "email_settings": {
+    "smtp_server": "",
+    "smtp_port": "587",
+    "smtp_user": "",
+    "smtp_password": "",
+    "from_email": "",
+    "to_email": ""
+  },
+  "discord_webhook": "https://discord.com/api/webhooks/1390077451371155598/A549CRRzl9Y6ka_1el6nhIpQHg21Wrz3jm7BSh4B1Mj715a7z_Zvq0Ko6EwbaLAQtmdZ"
+}
