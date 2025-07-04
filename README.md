@@ -18,7 +18,7 @@ A comprehensive security scanning tool with GUI dashboard for Windows systems.
 ## Installation 🛠️
 
 ```bash
-git clone https://github.com/yourusername/security-scanner.git
+git clone https://github.com/EndSkiess/security-scanner
 cd security-scanner
 
 # Install dependencies
